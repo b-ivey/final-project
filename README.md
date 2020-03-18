@@ -1,13 +1,13 @@
 # FINAL PROJECT
 
-**Due: Friday, December 6, 2019, Noon**
+**Due: Friday, April 24, 2019, Noon**
 
 
 ## Instructions
 
 Develop a web site for your personal portfolio OR an example of explanatory journalism on an appropriate topic. (Other topics must be cleared with Prof. Brown.)
 
-This project is worth **40 points.** (40 percent of your final grade.)
+This project is worth **50 points.** (50 percent of your final grade.)
 
 
 ## Portfolio
@@ -20,7 +20,7 @@ For undergraduates or students in majors who may not have a robust collection of
 ## Requirements
 
 - Minimum of four (4) pages, maximum of eight (8).
-- Sites must be hosted on GitHub
+- Sites must be hosted on a server (HostGator, GoDaddy, etc.) or through GitHub
 - Sites must be accessible via a [domain name](https://github.com/umiami-web-design/final-project/blob/master/how-to-register-a-domain-name.md).
 - Must adhere to best practices presented in class, including:
   - Well-structured, valid HTML documents
