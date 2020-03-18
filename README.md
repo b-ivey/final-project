@@ -21,7 +21,7 @@ For undergraduates or students in majors who may not have a robust collection of
 
 - Minimum of four (4) pages, maximum of eight (8).
 - Sites must be hosted on a server (HostGator, GoDaddy, etc.) or through GitHub
-- Sites must be accessible via a [domain name](https://github.com/umiami-web-design/final-project/blob/master/how-to-register-a-domain-name.md).
+- Sites must be accessible via a [domain name](https://github.com/b-ivey/final-project/blob/master/how-to-register-a-domain-name.md).
 - Must adhere to best practices presented in class, including:
   - Well-structured, valid HTML documents
   - Well-organized, working code in `.html` and `.css` files
@@ -86,7 +86,7 @@ Simply put, any incidents of academic dishonesty will cause you to fail this cou
 
 **How do I set up a domain name?**
 
-Read the file ([`how-to-register-a-domain-name.md`](https://github.com/umiami-web-design/final-project/blob/master/how-to-register-a-domain-name.md)) included in this repository for step-by-step instructions on how to accomplish this.
+Read the file ([`how-to-register-a-domain-name.md`](https://github.com/b-ivey/final-project/blob/master/how-to-register-a-domain-name.md) included in this repository for step-by-step instructions on how to accomplish this.
 
 **Where can I get graphics for my page?**
 
