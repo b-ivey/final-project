@@ -5,7 +5,7 @@
 
 ## Instructions
 
-Develop a web site for your personal portfolio OR an example of explanatory journalism on an appropriate topic. (Other topics must be cleared with Prof. Brown.)
+Develop a web site for your personal portfolio OR an example of explanatory journalism on an appropriate topic. Other topics must be cleared with Prof. Ivey.
 
 This project is worth **50 points.** (50 percent of your final grade.)
 
@@ -90,7 +90,7 @@ Read the file ([`how-to-register-a-domain-name.md`](https://github.com/b-ivey/fi
 
 **Where can I get graphics for my page?**
 
-I have created a [`design-resources`](https://github.com/umiami-web-design/design-resources) repository with links to various web sites with content you are able to use. Always check to make sure the content allows you the rights to use it.
+I have created a [`design-resources`](https://github.com/b-ivey/design-resources) repository with links to various web sites with content you are able to use. Always check to make sure the content allows you the rights to use it.
 
 **What is the maximum page weight I can have before my page is classified as "slow-loading"?**
 
