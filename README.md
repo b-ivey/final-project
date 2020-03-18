@@ -62,7 +62,7 @@ The addition of one, appropriate and fully functioning jQuery plugin or original
 
 ## Submission
 
-[Create an issue](https://github.com/umiami-web-design/final-project/issues) in the `final-project` repository with your **full name** and **a link to your (working) domain name** by the deadline. If you are unsure of how to submit, check the example provided in the Issues section.
+[Create an issue](https://github.com/b-ivey/final-project/issues/1) in the `final-project` repository with your **full name** and **a link to your (working) domain name** by the deadline. If you are unsure of how to submit, check the example provided in the Issues section.
 
 Do not wait until the last minute to submit your URL.
 
